@@ -26,6 +26,11 @@ html {
 	background: transparent;
 }
 
+body {
+	font-size: 0;
+	line-height: 0;
+}
+
 img {
 	max-width: 100%;
 	height: auto;
